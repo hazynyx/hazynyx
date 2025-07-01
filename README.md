@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 Reach me on Instagram @_ayush3179
+- 📫 Reach me on Instagram @hazy__.nyx
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I thought Binary Digits were Codes
 
