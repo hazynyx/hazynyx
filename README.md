@@ -3,7 +3,7 @@
 I'm a student from India.
 
 I don't usually go looking for project ideas.
-They usually find me in the form of a small inconvenience.
+They usually find me through small annoyances.
 
 Most of the things here started with:
 "Why doesn't this exist?"
