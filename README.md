@@ -12,4 +12,4 @@ So I built it.
 
 If someone else finds it useful too, that's a win.
 
-> Scratching my own itch. Open-sourcing the fixes.
+> It worked on my laptop :)
