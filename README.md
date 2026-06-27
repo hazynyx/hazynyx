@@ -13,4 +13,5 @@ So I built it.
 If someone else finds it useful too, that's a win.
 
 > It worked on my laptop :)
+
 > I use Mint + Win 11 btw
